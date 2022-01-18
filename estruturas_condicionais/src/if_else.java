@@ -20,7 +20,7 @@ public class if_else {
 		else {
 			System.out.println("Boa noite");
 			}
-		
+		sc.close();
 	}
 
 }
